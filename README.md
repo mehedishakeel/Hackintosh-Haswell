@@ -1,4 +1,4 @@
-# Intel Hackintosh ( Hashwell )
+# Intel Hackintosh ( Haswell )
 A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on Intel based computer hardware that is not authorized for the purpose by Apple. In this hackintosh build i use OpenCore to multiboot Windows(11) and MacOS(Catalina) Olarila Vanila Images.
 
 ## Disclaimer
