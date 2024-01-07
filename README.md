@@ -11,7 +11,7 @@ Please Use My Hackintosh EFI at your own risk. I take no responsiblity if your r
 
 | Component        | Model                                              |
 | ---------------- | ---------------------------------------------------|
-| CPU              | Intel i3- 4thGen 3.4 Ghz                           |
+| CPU              | Intel i3 - 4th Gen 3.4 Ghz                           |
 | MotherBoard      | ASUS H81M-D Plus                                   |
 | OS Disk          | KingSpec 256 GB SATA SSD                           |
 | RAM              | 4gb + 8gb Adata DDR3 12GB Ram                      |
