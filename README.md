@@ -4,7 +4,7 @@ A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on
 ## Disclaimer
 Please Use My Hackintosh EFI at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't use ones shown in the my efi config.plist!!!
 
-## My Mac Pro (Hackintosh) About Screenshot
+## My iMac Pro (Hackintosh) About Screenshot
 <img src="screenshot/1.png" alt="3.png"/>
 
 ## Specification
